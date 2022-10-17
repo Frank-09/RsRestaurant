@@ -1,3 +1,3 @@
-# RS Restaurant
+# The Avenue
 
 It is a simple restaurant website. 
